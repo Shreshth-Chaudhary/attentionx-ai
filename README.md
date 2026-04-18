@@ -1,2 +1,73 @@
 # attentionx-ai
-AI-powered automated content repurposing engine for converting long videos into viral short clips
+# 🎬 AttentionX AI – Viral Clip Generator
+
+ AI-powered system that converts long videos into short, engaging, viral-ready clips automatically.
+
+---
+
+## 🧠 Problem
+
+Content creators spend hours manually editing videos to create short clips for reels, shorts, and social media.
+
+---
+
+## 💡 Solution
+
+AttentionX AI automates this process by:
+
+* Transcribing video using AI
+* Identifying important segments
+* Generating clips automatically
+* Adding captions for engagement
+
+---
+
+## ✨ Features
+
+* 🎥 Upload video
+* 🧠 AI transcription (Whisper)
+* ✂️ Smart clip extraction
+* 📝 Auto captions
+* 📊 Viral scoring system
+* 📥 Download clips
+
+---
+
+## 🏗️ Tech Stack
+
+* Python
+* FastAPI
+* Streamlit
+* OpenAI Whisper
+* MoviePy
+* ImageMagick
+
+---
+
+## ⚙️ How It Works
+
+1. Upload video
+2. Extract audio
+3. Transcribe using Whisper
+4. Score segments
+5. Generate clips
+6. Add captions
+7. Download results
+
+---
+
+## 🎥 Demo Video
+
+👉 (Add your demo link here)
+
+---
+
+## 🚀 Why This Project?
+
+This system reduces video editing effort by **80%** and enables automatic viral content generation using AI.
+
+---
+
+## 👨‍💻 Author
+
+Shreshth Chaudhary
