@@ -68,6 +68,22 @@ This system reduces video editing effort by **80%** and enables automatic viral 
 
 ---
 
+## 📁 Project Structure
+
+attentionx-ai/
+│── app/
+│   ├── main.py
+│   ├── processor.py
+│   ├── scoring.py
+│   ├── captioner.py
+│
+│── frontend/
+│   └── streamlit_app.py
+│
+│── uploads/
+│── outputs/
+│── requirements.txt
+
 ## 👨‍💻 Author
 
 Shreshth Chaudhary
